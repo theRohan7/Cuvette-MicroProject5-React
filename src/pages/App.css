@@ -78,7 +78,7 @@ body{
   cursor: pointer;
   display: flex;
   align-items: center;
-  /* background-color: pink; */
+  
   gap: 20px;
   padding: 10px 20px;
 
@@ -100,7 +100,7 @@ body{
   height: 60px;
   display: grid;
   place-items: center;
-  /* font-family: 'Roboto'; */
+  
   font-size: 1.6vw;
   font-weight: 500;
   line-height: 23.56px;
@@ -110,7 +110,7 @@ body{
 }
 
 .sidebar-group strong {
-  /* font-family: 'Roboto'; */
+  
   font-size: 1.8vw;
   font-weight: 500;
   line-height: 24.22px;
@@ -123,8 +123,6 @@ body{
   width: 48.6vw;
   background-color: #fff;
   padding: 10px;
-  /* border: 2px solid #CCCCCC; */
-  /* font-family: 'Roboto'; */
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -141,7 +139,7 @@ body{
 }
 
 .createNoteForm label{
-  /* font-family: 'Roboto'; */
+
 font-size: 1.8vw;
 font-weight: 500;
 line-height: 43.75px;
@@ -275,7 +273,7 @@ color: #000000;
 .notes-content {
   background-color: #F7ECDC;
   padding: 20px;
-  /* text-align: left; */
+  
 }
 
 .notes{
@@ -396,7 +394,7 @@ color: #000000;
     
     background-color: #fff;
     padding: 10px;
-    /* border: 2px solid #CCCCCC; */
+   
     
   
   }
@@ -413,7 +411,7 @@ color: #000000;
   }
   
   .createNoteForm label{
-    /* font-family: 'Roboto'; */
+    
     font-family: Roboto;
     font-size: 3.5vw;
     font-weight: 500;
